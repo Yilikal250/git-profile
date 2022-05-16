@@ -1,0 +1,32 @@
+body {
+    background-color:yellow;
+}
+.all {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 40px;
+    font-weight: 900;
+    color:black;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.all p {
+    font-weight: bolder;
+}
+
+.icons a {
+    margin: 15px;
+    text-decoration-color:none;
+}
+a {
+    color:inherit;
+}
+.fa:hover {
+    transform: scale(1.5);
+  }
+
+  .fa {
+    transition: all .2s ease-in-out;
+  }
